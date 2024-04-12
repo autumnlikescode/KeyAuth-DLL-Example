@@ -157,7 +157,7 @@
   </ItemGroup>
   <ItemGroup>
     <Library Include="Auth\libcurl.lib" />
-    <Library Include="Auth\library_x64.lib" />
+    <Library Include="Auth\library_x86.lib" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
